@@ -1,0 +1,15 @@
+{
+  "name": "validatesamples",
+  "version": "1.0.0",
+  "description": "A collection of Sample code on how to use Corvid PayGate Products",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorvidPayGate/ValidateSamples.git"
+  },
+  "author": "George Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorvidPayGate/ValidateSamples/issues"
+  },
+  "homepage": "https://github.com/CorvidPayGate/ValidateSamples#readme"
+}
