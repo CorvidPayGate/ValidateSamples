@@ -1,0 +1,27 @@
+{
+  "name": "paygate.validate-node",
+  "version": "1.0.0",
+  "description": "A NodeJs Api example for using the PayGate.Validate Api",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "optional-require": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorvidPayGate/ValidateSamples.git"
+  },
+  "author": "George Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorvidPayGate/ValidateSamples/issues"
+  },
+  "homepage": "https://github.com/CorvidPayGate/ValidateSamples/tree/master/PayGate.Validate/Node#readme"
+}
